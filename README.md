@@ -13,7 +13,7 @@ Project Structure
 
 How to Use
 
-1.Clone the repository: git clone (https://github.com/Abhay79823/animate-css-playground.git).
+1.Clone the repository: git clone (https://github.com/Abhay79823/Animation.git).
 2.Open index.html in your web browser to interact with the playground.
 
 Screenshots
