@@ -2,9 +2,9 @@
 This project is an interactive playground for experimenting with various CSS animations using Animate.css. Users can select different animation effects from categorized buttons, which will apply the chosen animation to the content on the page.
 
 ## Features
-•	Interactive Animation Preview: Easily apply different Animate.css animations by clicking on buttons corresponding to the desired effects.
-•	Categorized Animations: Animations are grouped into categories like "Attention Seekers," "Back Entrances," and "Back Exits" for easy navigation.
-•	Responsive Layout: Designed to work well on both desktop and mobile devices.
+###### •	Interactive Animation Preview: Easily apply different Animate.css animations by clicking on buttons corresponding to the desired effects.
+###### •	Categorized Animations: Animations are grouped into categories like "Attention Seekers," "Back Entrances," and "Back Exits" for easy navigation.
+###### •	Responsive Layout: Designed to work well on both desktop and mobile devices.
 
 ## Project Structure
 #### •index.html: The main HTML file containing the structure and content of the animation playground.
