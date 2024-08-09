@@ -7,9 +7,9 @@ This project is an interactive playground for experimenting with various CSS ani
 ###### •	Responsive Layout: Designed to work well on both desktop and mobile devices.
 
 ## Project Structure
-#### •index.html: The main HTML file containing the structure and content of the animation playground.
-#### •anim.css: The CSS file for custom styling of the playground.
-#### •anim.js: The JavaScript file responsible for handling the interaction logic (applying animations on button clicks).
+#### •index.html: ###### The main HTML file containing the structure and content of the animation playground.
+#### •anim.css: ###### The CSS file for custom styling of the playground.
+#### •anim.js: ###### The JavaScript file responsible for handling the interaction logic (applying animations on button clicks).
 
 ## How to Use
 ##### 1.Clone the repository: git clone (https://github.com/Abhay79823/Animation.git).
